@@ -16,3 +16,7 @@ reciever_chat_id: 12345 #id телеграм чата, в который буд�
 ```
 python3 main.py
 ```
+
+## Превью
+
+![превью](https://raw.githubusercontent.com/gorelimer/donation-alerts-to-telegram/refs/heads/main/preview/preview.png)
